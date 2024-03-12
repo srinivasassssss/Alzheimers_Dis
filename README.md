@@ -1,7 +1,8 @@
 STEP-1: Open the MATLAB code files to train the models by selecting the duseased cluster(inside IMAGES DATABASE folder). They are: 1)data_train_Alzheimer_MildDemented 2)data_train_Alzheimer_ModeratedDemented 3)data_train_Alzheimer_VeryMildDemented 4)data_train_Alzheimer_NonDemented
 
 Reference Image 1:
-![WhatsApp Image 2024-03-12 at 19 00 59](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/28eac947-a3b5-463b-a276-75bd4a8e20c9)
+
+![Screenshot (128)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/cbb6b1ce-944c-41e8-aa94-995e0efbb04d)
 
 STEP-2: As a result .mat files are generated(inside IMAGES DATABASE folder). They are: 1)Alzheimer_MildDemented 2)Alzheimer_ModeratedDemented 3)Alzheimer_VeryMildDemented 4)Alzheimer_NonDemented
 
@@ -11,31 +12,31 @@ STEP-4: Execute "Detect_model_Grayscale"(outside IMAGE DATABASE).
 
 Select the image from IMAGE DATABASE.
 
-![WhatsApp Image 2024-03-12 at 19 01 00](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/4b7e9afb-f6cd-42ca-9873-423bdef1356a)
+![Screenshot (127)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/0191ac3a-5080-4abe-a6ce-b46e32cc0af8)
 
 Here I took MildDemented
 
-![WhatsApp Image 2024-03-12 at 19 01 00 (1)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/76c87ef5-71ed-47b4-a7be-68d9d36c00ec)
+![Screenshot (126)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/b271885d-9bf0-491e-9989-d37d99c042a8)
 
 Here I chose 2nd image.
 
-![WhatsApp Image 2024-03-12 at 19 01 01](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/6fa9e6cc-e454-4fd4-be13-82d7b9e33e1e)
+![Screenshot (125)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/2ded226d-bc7c-4e3f-9489-7213bb17103d)
 
 The prompt will ask to select the disease cluster.
 
-![WhatsApp Image 2024-03-12 at 19 01 01 (1)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/4d8778ab-616b-4003-838c-1566ac6df189)
+![Screenshot (124)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/5f0962ff-a4e8-44b2-8faf-ef5f16505dd2)
 
 After that the prompt will ask for the training percentage.
 
-![WhatsApp Image 2024-03-12 at 19 01 01 (2)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/12f0dbf8-6cf7-46f7-9880-09880365e367)
+![Screenshot (123)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/9dcfb6a9-7b69-47dd-b50e-768993d0c3dc)
 
 Finally the will find the disesse name correctly. 
 
-![WhatsApp Image 2024-03-12 at 19 01 02](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/76b8ea29-ec47-4818-b18e-e967af87568d)
+![Screenshot (122)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/06e9fd1a-b86b-4f17-9d2a-22219f1dc0c9)
 
 The result metrics will be displayed
 
-![WhatsApp Image 2024-03-12 at 19 01 02 (1)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/9b596751-e935-4cfb-9e9b-c56551bf79c1)
+![Screenshot (121)](https://github.com/srinivasassssss/Alzheimers_Dis/assets/134394908/545143a9-9972-4993-b9cd-090415f93a12)
 
 
 
