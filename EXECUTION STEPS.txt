@@ -1,0 +1,9 @@
+For program execution
+Detect_model.m
+
+For creating citrus dataset the following files required
+data_train_Citrus_Blackspot.m
+data_train_Citrus_Canker.m
+data_train_Citrus_Greening.m
+data_train_Citrus_Healthy.m
+Train_final_save_Citrus_leaf.m
